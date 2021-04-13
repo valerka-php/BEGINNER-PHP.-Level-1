@@ -9,27 +9,36 @@
 </head>
 
 <body>
-<h1>Hi NIX Education!</h1>
+    <h1>Hi NIX Education!</h1>
 
 <main>
+
     <h2>my first site </h2>
 
-    <nav><a href="table.php">Lesson 1</a> | <a href="2.html">Lesson 3</a> |
-        <a href="3.html">Lesson 2</a> | <a href="4.html">Lesson 4</a></nav>
+    <nav>
+
+        <a href="table.php">Lesson 1</a> | <a href=" ">Lesson 2</a> |
+        <a href=" ">Lesson 3</a> | <a href=" ">Lesson 4</a> |
+        <a href="https://github.com/valerka-php?tab=repositories">my git</a>
+
+    </nav>
 
     <img src="https://education.nixsolutions.com/pluginfile.php/226/mod_label/intro/illustration_2.svg" >
 
 </main>
 
 <footer>
-    <i>Kharkov 2021</i>
+
+    <i>Kharkov <?php
+        echo date('Y ');
+        echo 'Time ' . date('G.i.s');
+
+        ?>
+    </i>
+
 </footer>
+
 </body>
 </html>
-
-<?php
-
-$a = 'text';
-
 
 
