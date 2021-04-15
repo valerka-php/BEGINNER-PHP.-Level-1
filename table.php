@@ -12,7 +12,7 @@ for ($i2 = 6; $i2 <= 10; $i2++) {
 }
 
 
-echo '<table border= "3" ';
+echo '<table border= "1" ';
 echo '<tr bordercolor = "#00000" align="center" >';
 foreach ($array as $key1 => $item) {
     echo '<td>' ;
