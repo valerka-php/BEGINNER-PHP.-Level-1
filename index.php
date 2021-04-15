@@ -17,7 +17,7 @@
 
     <nav>
 
-        <a href="table.php">Lesson 1</a> | <a href=" ">Lesson 2</a> |
+        <a href="table.php">Lesson 1</a> | <a href="color_table.php">Lesson 2</a> |
         <a href=" ">Lesson 3</a> | <a href=" ">Lesson 4</a> |
         <a href="https://github.com/valerka-php?tab=repositories">my git</a>
 
