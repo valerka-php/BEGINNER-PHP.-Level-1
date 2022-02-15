@@ -9,10 +9,8 @@
 </head>
 <body>
     <h1>Hi NIX Education!</h1>
-    <h1>Hi NIX Education!</h1>
-    <h1>Hi NIX Education!</h1>
-    <h1>Hi NIX Education!</h1>
-    <h1>Hi NIX Education!</h1>
+  
+    
 
 <main>
     <nav>
